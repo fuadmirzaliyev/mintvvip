@@ -1,48 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azerbaycan",ARB
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png", ARB
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="Azerbaycan",ARB 24
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png", ARB 24
 http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azerbaycan",ARB Gunes
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png", ARB Günəş
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="Azerbaycan",AZ TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png", AZ TV
 http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
-#EXTINF:0 group-title="Azerbaycan" tvg-id="2559" tvg-logo="http://epg.one/img/2559.png",ATV AZ
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://epg.one/img/2559.png", ATV AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2Pxrw7qjouy44JxwmSKGss3ImwJUl97087CWunJgLccbrzRRF_zHrq0OW2eFSBnoIw&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Azerbaycan" tvg-id="9128" tvg-logo="http://epg.one/img/9128.png",ATV Cinema AZ
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://epg.one/img/9128.png", ATV Cinema AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2C8-0xronpO39OWcn0-eCnOBflkzgUxV9iu0WRa7hYA-3ib-pmeEmX95OT6JXndCPA&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="Azerbaycan",Az Star TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png", Az Star TV
 http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="Azerbaycan",Baku TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png", Baku TV
 http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="Azerbaycan",CBC
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png", CBC
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png" group-title="Azerbaycan",DГјnya TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png", Dünya TV
 http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="Azerbaycan",Ictimai TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png", İctimai TV
 http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" group-title="Azerbaycan",MCJ TV Shop
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png", MCJ TV Shop
 http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="Azerbaycan",Medeniyyet TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png", Mədəniyyət TV
 http://stream.tvcdn.net/azerbaycan/medeniyyet-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" group-title="Azerbaycan",Muz TV Azerbaycan
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png", Muz TV Azərbaycan
 http://stream.tvcdn.net/azerbaycan/muz-tv-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" group-title="Azerbaycan",Real TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png", Real TV
 http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" group-title="Azerbaycan",Sehiyye TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png", Səhiyyə TV
 http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png" group-title="Azerbaycan",Space TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png", Space TV
 http://stream.tvcdn.net/azerbaycan/space-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png" group-title="Azerbaycan",Start TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png", Start TV
 http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="Azerbaycan",TMB Azerbaycan
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png", TMB Azərbaycan
 http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg" group-title="Azerbaycan",VIP HD
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg", VIP HD
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" group-title="Azerbaycan",Vilayet TV
+
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png", Vilayət TV
 http://stream.tvcdn.net/azerbaycan/vilayet-tv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
+
+#EXTINF:-1 group-title="Azerbaycan", Xəzər TV
 http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="Türk kanalları",ATV
 https://canlitvme.ismailturret.workers.dev/atv.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="Türk kanalları",TRT 1
@@ -4568,5 +4591,6 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2IRkltr9Dr37eeC9bAO3MhnTToJCc5loKEr0E19elHWcuAxVRgeZ4L5V9t0bux3sGQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Rusiya kanalları" tvg-id="7711" tvg-logo="http://epg.one/img/7711.png",ЯПервый HD
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2CWo0WcGcyaLVutxauDAzzuti4AfaBs8fBWbiDrIu6bGMSxWexZR8roE_JvlVUbh7Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
+
 
 

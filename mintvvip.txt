@@ -7,8 +7,10 @@ http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="Azerbaycan",AZ TV
 http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png" group-title="Azerbaycan",Azad TV
-http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8
+#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2559" tvg-logo="http://epg.one/img/2559.png",ATV AZ
+http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2Pxrw7qjouy44JxwmSKGss3ImwJUl97087CWunJgLccbrzRRF_zHrq0OW2eFSBnoIw&token=dGVzdDU6dGVzdDU=#/index.m3u8
+#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9128" tvg-logo="http://epg.one/img/9128.png",ATV Cinema AZ
+http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2C8-0xronpO39OWcn0-eCnOBflkzgUxV9iu0WRa7hYA-3ib-pmeEmX95OT6JXndCPA&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="Azerbaycan",Az Star TV
 http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="Azerbaycan",Baku TV
@@ -4566,3 +4568,4 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2IRkltr9Dr37eeC9bAO3MhnTToJCc5loKEr0E19elHWcuAxVRgeZ4L5V9t0bux3sGQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Rusiya kanalları" tvg-id="7711" tvg-logo="http://epg.one/img/7711.png",ЯПервый HD
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2CWo0WcGcyaLVutxauDAzzuti4AfaBs8fBWbiDrIu6bGMSxWexZR8roE_JvlVUbh7Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
+

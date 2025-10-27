@@ -228,14 +228,6 @@ https://canlitvme.ismailturret.workers.dev/minikago.m3u8
 https://canlitvme.ismailturret.workers.dev/tv4.m3u8
 #EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-diyanet-cocuk.png" group-title="Çocuk",TRT Diyanet Çocuk
 https://canlitvme.ismailturret.workers.dev/trtdiyanetcocuk.m3u8
-#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/trt-belgesel.png" group-title="Belgesel",TRT Belgesel
-https://canlitvme.ismailturret.workers.dev/trtbelgesel.m3u8
-#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/koy-tv.png" group-title="Belgesel",Köy Tv
-https://canlitvme.ismailturret.workers.dev/koytv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/ciftci-tv.png" group-title="Belgesel",Çiftçi Tv
-https://canlitvme.ismailturret.workers.dev/ciftcitv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.canlitvme.com/poster/agro-tv.png" group-title="Belgesel",Agro Tv
-https://canlitvme.ismailturret.workers.dev/agrotv.m3u8
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="beİN SPORT",|TR| beIN Sports 1 SD [480p]
 http://185.53.90.98:8080/fatih2/2fatih/35762
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [VIP]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="beİN SPORT",|TR| beIN Sports 1 HD [VIP]
@@ -4948,6 +4940,7 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2IRkltr9Dr37eeC9bAO3MhnTToJCc5loKEr0E19elHWcuAxVRgeZ4L5V9t0bux3sGQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Rusiya kanalları" tvg-id="7711" tvg-logo="http://epg.one/img/7711.png",ЯПервый HD
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2CWo0WcGcyaLVutxauDAzzuti4AfaBs8fBWbiDrIu6bGMSxWexZR8roE_JvlVUbh7Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
+
 
 
 

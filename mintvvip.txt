@@ -626,9 +626,6 @@ http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626857&extensi
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626856&extension=ts&play_token=SHKtmJ0QzL
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1796075.png" group-title="TR| TURKIYE",TR| YOL TV
 
-http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1796075&extension=ts&play_token=I6PipDONlj
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1796074.png" group-title="TR| TURKIYE",TR| YILDIZ TV
-
 #EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz"
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
@@ -4940,6 +4937,7 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2IRkltr9Dr37eeC9bAO3MhnTToJCc5loKEr0E19elHWcuAxVRgeZ4L5V9t0bux3sGQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Rusiya kanalları" tvg-id="7711" tvg-logo="http://epg.one/img/7711.png",ЯПервый HD
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2CWo0WcGcyaLVutxauDAzzuti4AfaBs8fBWbiDrIu6bGMSxWexZR8roE_JvlVUbh7Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
+
 
 
 

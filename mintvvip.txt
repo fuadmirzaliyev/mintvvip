@@ -272,188 +272,186 @@ http://185.53.90.98:8080/fatih2/2fatih/6204
 http://185.53.90.98:8080/fatih2/2fatih/6205
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Vice FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png" group-title="beİN SİNEMA",|TR| beIN Series Vice FHD
 http://185.53.90.98:8080/fatih2/2fatih/125800
-#EXTINF:-1 tvg-logo="" group-title="BELGESEL KANALLARI",##### TR BELGESEL #####
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913192&extension=ts&play_token=CMRa1R7NI5
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913191.png" group-title="BELGESEL KANALLARI",TR| TRT BELGESEL 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913191.png" group-title="BELGESEL KANALLARI",TRT BELGESEL 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913191&extension=ts&play_token=ZUM4SkBn49
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913190.png" group-title="BELGESEL KANALLARI",TR| TRT BELGESEL HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913190.png" group-title="BELGESEL KANALLARI",TRT BELGESEL HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913190&extension=ts&play_token=I4e9A1OQpt
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913189.png" group-title="BELGESEL KANALLARI",TR| NAT GEO WiLD 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913189.png" group-title="BELGESEL KANALLARI",NAT GEO WiLD 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913189&extension=ts&play_token=e4n2gXkIpF
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913188.png" group-title="BELGESEL KANALLARI",TR| NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913188.png" group-title="BELGESEL KANALLARI",NAT GEO WILD HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913188&extension=ts&play_token=tsv4gSpphe
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913187.png" group-title="BELGESEL KANALLARI",TR| ANIMAL PLANET 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913187.png" group-title="BELGESEL KANALLARI",ANIMAL PLANET 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913187&extension=ts&play_token=Yx4ZSqVmNx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="BELGESEL KANALLARI",NATiONAL GEOGRAPHiC 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913186&extension=ts&play_token=BFqeny67JU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="BELGESEL KANALLARI",TR| NATiONAL GEOGRAPHiC HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="BELGESEL KANALLARI",NATiONAL GEOGRAPHiC HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913185&extension=ts&play_token=uXaY7B18Eo
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913183.png" group-title="BELGESEL KANALLARI",TR| DiSCOWERY CHANNEL 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913183.png" group-title="BELGESEL KANALLARI",DiSCOWERY CHANNEL 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913183&extension=ts&play_token=II7IOvgXWa
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913182.png" group-title="BELGESEL KANALLARI",TR| DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913182.png" group-title="BELGESEL KANALLARI",DISCOVERY CHANNEL HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913182&extension=ts&play_token=SUMKCxoM4J
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913181.png" group-title="BELGESEL KANALLARI",TR| TLC 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913181.png" group-title="BELGESEL KANALLARI",TLC 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913181&extension=ts&play_token=aryYiC8cYT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913180.png" group-title="BELGESEL KANALLARI",TR| TLC HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913180.png" group-title="BELGESEL KANALLARI",TLC HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913180&extension=ts&play_token=lWXm6aH6lF
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913179.png" group-title="BELGESEL KANALLARI",TR| TGRT BELGESEL 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913179.png" group-title="BELGESEL KANALLARI",TGRT BELGESEL 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913179&extension=ts&play_token=gIIaijfx9a
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913178.png" group-title="BELGESEL KANALLARI",TR| TRT BELGESEL HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913178.png" group-title="BELGESEL KANALLARI",TRT BELGESEL HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913178&extension=ts&play_token=XJfBHHLXrO
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913177.png" group-title="BELGESEL KANALLARI",TR|YABAN TV 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913177.png" group-title="BELGESEL KANALLARI",YABAN TV 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913177&extension=ts&play_token=cNp85wNUpy
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913176.png" group-title="BELGESEL KANALLARI",TR| YABAN HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913176.png" group-title="BELGESEL KANALLARI",YABAN HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913176&extension=ts&play_token=1WcGfVkbjp
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913175.png" group-title="BELGESEL KANALLARI",TR| DISCOVERY SCIENCE 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913175.png" group-title="BELGESEL KANALLARI",DISCOVERY SCIENCE 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913175&extension=ts&play_token=H0KMJDf7us
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913174.png" group-title="BELGESEL KANALLARI",TR| DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913174.png" group-title="BELGESEL KANALLARI",DISCOVERY SCIENCE HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913174&extension=ts&play_token=dywD2j5pfu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="BELGESEL KANALLARI",TR| DISCOVERY IDX 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="BELGESEL KANALLARI",DISCOVERY IDX 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913173&extension=ts&play_token=KA8wJB2GBq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="BELGESEL KANALLARI",TR| DISCOVERY IDX HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="BELGESEL KANALLARI",DISCOVERY IDX HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913172&extension=ts&play_token=ZHVz1crU8c
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913171.png" group-title="BELGESEL KANALLARI",TR| BBC EARTH 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913171.png" group-title="BELGESEL KANALLARI",BBC EARTH 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913171&extension=ts&play_token=yM1DyTLHil
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913170.png" group-title="BELGESEL KANALLARI",TR| BBC EARTH HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913170.png" group-title="BELGESEL KANALLARI",BBC EARTH HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913170&extension=ts&play_token=ME34VGgwzF
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913169.png" group-title="BELGESEL KANALLARI",TR| HISTORY 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913169.png" group-title="BELGESEL KANALLARI",HISTORY 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913169&extension=ts&play_token=DEQhiKiuBt
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913167.png" group-title="BELGESEL KANALLARI",TR| DMAX 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913167.png" group-title="BELGESEL KANALLARI",DMAX 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913167&extension=ts&play_token=9eUBLpFyfo
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913166.png" group-title="BELGESEL KANALLARI",TR| DMAX HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913166.png" group-title="BELGESEL KANALLARI",DMAX HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913166&extension=ts&play_token=7MHEU6iSoQ
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913165.png" group-title="BELGESEL KANALLARI",TR| ZUZU GURME 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913165.png" group-title="BELGESEL KANALLARI",ZUZU GURME 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913165&extension=ts&play_token=jq1W2LyVYc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" group-title="BELGESEL KANALLARI",TR| ZUZU IZ TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1925951.png" group-title="BELGESEL KANALLARI",ZUZU IZ TV
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1925951&extension=ts&play_token=IA0i54ItRk
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913162.png" group-title="BELGESEL KANALLARI",TR| VIASAT HISTORY HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913162.png" group-title="BELGESEL KANALLARI",VIASAT HISTORY HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913162&extension=ts&play_token=atLcHya1Lb
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913161.png" group-title="BELGESEL KANALLARI",TR| VIASAT EXPLORE HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913161.png" group-title="BELGESEL KANALLARI",VIASAT EXPLORE HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=9131sine61&extension=ts&play_token=w6IsNSbvJY
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" group-title="BELGESEL KANALLARI",TR| LOVE NATURE 4K
-#EXTINF:-1 tvg-logo="" group-title="SINEMA KANALLARI",##### TR SINEMA/DIZI #####
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" group-title="BELGESEL KANALLARI",LOVE NATURE 4K
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913334&extension=ts&play_token=8KDF9OsMGh
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913333.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES TURK HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913333.png" group-title="SINEMA KANALLARI",ZUZU MOVIES TURK HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913333&extension=ts&play_token=9qZSkoqtRh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES FAMILY HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="SINEMA KANALLARI",ZUZU MOVIES FAMILY HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913332&extension=ts&play_token=nH63XGzcE9
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913331.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES STARS HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913331.png" group-title="SINEMA KANALLARI",ZUZU MOVIES STARS HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913331&extension=ts&play_token=DqvOeP2ACu
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913330.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES ACTION HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913330.png" group-title="SINEMA KANALLARI",ZUZU MOVIES ACTION HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913330&extension=ts&play_token=fz0x1yajN5
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913329.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES ACTION 2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913329.png" group-title="SINEMA KANALLARI",ZUZU MOVIES ACTION 2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913329&extension=ts&play_token=CR5asRjCtA
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913328.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES PREMIERE HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913328.png" group-title="SINEMA KANALLARI",ZUZU MOVIES PREMIERE HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913328&extension=ts&play_token=0qToF1YHVl
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913327.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913327.png" group-title="SINEMA KANALLARI"ZUZU MOVIES PREMIERE 2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913327&extension=ts&play_token=kkU5PYXHBw
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913325.png" group-title="SINEMA KANALLARI",TR| ZUZU SERIES 1 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913325.png" group-title="SINEMA KANALLARI",ZUZU SERIES 1 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913325&extension=ts&play_token=kiY6QhPQOZ
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913326.png" group-title="SINEMA KANALLARI",TR| ZUZU SERIES 2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913326.png" group-title="SINEMA KANALLARI",ZUZU SERIES 2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913326&extension=ts&play_token=30fnVP8VvH
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913323.png" group-title="SINEMA KANALLARI",TR| ZUZU SERIES 3 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913323.png" group-title="SINEMA KANALLARI",ZUZU SERIES 3 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913323&extension=ts&play_token=eImg03Cnkr
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913324.png" group-title="SINEMA KANALLARI",TR| ZUZU SERIES 4 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913324.png" group-title="SINEMA KANALLARI",ZUZU SERIES 4 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913324&extension=ts&play_token=eSsDChWCYO
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1175357.png" group-title="SINEMA KANALLARI",TR| ZUZU BOX OFFICE 1 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1175357.png" group-title="SINEMA KANALLARI",ZUZU BOX OFFICE 1 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1175357&extension=ts&play_token=wbQekS1dGq
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1175356.png" group-title="SINEMA KANALLARI",TR| ZUZU BOX OFFICE 2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1175356.png" group-title="SINEMA KANALLARI",ZUZU BOX OFFICE 2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1175356&extension=ts&play_token=8jeOK5lbT6
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1175355.png" group-title="SINEMA KANALLARI",TR| ZUZU BOX OFFICE 3 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1175355.png" group-title="SINEMA KANALLARI",ZUZU BOX OFFICE 3 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1175355&extension=ts&play_token=vrCuyNIXY9
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913322.png" group-title="SINEMA KANALLARI",TR| SINEMA TV HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913322.png" group-title="SINEMA KANALLARI",SINEMA TV HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913322&extension=ts&play_token=g9eHhpoIvP
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913321.png" group-title="SINEMA KANALLARI",TR| SINEMA TV2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913321.png" group-title="SINEMA KANALLARI",SINEMA TV2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913321&extension=ts&play_token=zcakHSTzVL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="SINEMA KANALLARI",TR| SINEMA TV YERLI HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="SINEMA KANALLARI",SINEMA TV YERLI HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913320&extension=ts&play_token=G2loyNZqtq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="SINEMA KANALLARI",TR| SINEMA TV YERLI2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-YERLI.png" group-title="SINEMA KANALLARI",SINEMA TV YERLI2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913319&extension=ts&play_token=GnwrfRz3qm
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913318.png" group-title="SINEMA KANALLARI",TR| SINEMA TV AILE HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913318.png" group-title="SINEMA KANALLARI",SINEMA TV AILE HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913318&extension=ts&play_token=hftBBat4lE
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913317.png" group-title="SINEMA KANALLARI",TR| SINEMA TV AILE2 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913317.png" group-title="SINEMA KANALLARI",SINEMA TV AILE2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913317&extension=ts&play_token=TkBC6bd2su
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913316.png" group-title="SINEMA KANALLARI",TR| SINEMA TV KOMEDI HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913316.png" group-title="SINEMA KANALLARI",SINEMA TV KOMEDI HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913316&extension=ts&play_token=SJDmxv5xHo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-KOMEDI-2.png" group-title="SINEMA KANALLARI",TR| SINEMA TV KOMEDI2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-KOMEDI-2.png" group-title="SINEMA KANALLARI",SINEMA TV KOMEDI2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913315&extension=ts&play_token=1JVGEOmySn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="SINEMA KANALLARI",TR| SINEMA TV AKSIYON HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="SINEMA KANALLARI",SINEMA TV AKSIYON HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913314&extension=ts&play_token=n2k6AOGQvG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="SINEMA KANALLARI",TR| SINEMA TV AKSIYON2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-AKSIYON.png" group-title="SINEMA KANALLARI",SINEMA TV AKSIYON2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913313&extension=ts&play_token=IQGUaleDFi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1001.png" group-title="SINEMA KANALLARI",TR| SINEMA TV 1001 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1001.png" group-title="SINEMA KANALLARI",SINEMA TV 1001 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913312&extension=ts&play_token=8E8MWHjd1w
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1002.png" group-title="SINEMA KANALLARI",TR| SINEMA TV 1002 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SINEMA-TV-1002.png" group-title="SINEMA KANALLARI",SINEMA TV 1002 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913311&extension=ts&play_token=xYpoXDwDZu
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913307.png" group-title="SINEMA KANALLARI",TR| DIZI SMART PREMIUM HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913307.png" group-title="SINEMA KANALLARI",DIZI SMART PREMIUM HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913307&extension=ts&play_token=btQC1Vh9iK
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913306.png" group-title="SINEMA KANALLARI",TR| DIZI SMART MAX HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913306.png" group-title="SINEMA KANALLARI",DIZI SMART MAX HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913306&extension=ts&play_token=0KzRHEjUCb
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913305.png" group-title="SINEMA KANALLARI",TR| FX HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913305.png" group-title="SINEMA KANALLARI",FX HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913305&extension=ts&play_token=00B0uzo1WZ
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1423980.png" group-title="SINEMA KANALLARI",TR| LOCA 1 FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1423980.png" group-title="SINEMA KANALLARI",LOCA 1 FHD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1423980&extension=ts&play_token=mQpa5YCIRT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913209.png" group-title="SINEMA KANALLARI",TR| FILMBOX KEMAL SUNAL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913209.png" group-title="SINEMA KANALLARI",FILMBOX KEMAL SUNAL
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913209&extension=ts&play_token=ahannm6jFS
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FILMBOX.png" group-title="SINEMA KANALLARI",FILMBOX PREMIER ᴴᴰ
@@ -507,124 +505,124 @@ http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1395484&extensi
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1395483.png" group-title="SINEMA KANALLARI",FILMBOX YERLI ᴴᴰ
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1395483&extension=ts&play_token=VzS64JcMcs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 1 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384240&extension=ts&play_token=UxtRtGOWxh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 2 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100327&extension=ts&play_token=yqPCesDoHy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 3 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 3 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100328&extension=ts&play_token=WldS0mlWR2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 4 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100329&extension=ts&play_token=lXikBGctS2
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1100330.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 5 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1100330.png" group-title="SINEMA KANALLARI",SINEVIZYON 5 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100330&extension=ts&play_token=qetzK9Rmky
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 6 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 6 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100331&extension=ts&play_token=PS6Mdo7mAm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 7 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 7 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100332&extension=ts&play_token=oyTnEcSYNv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 8 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 8 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100333&extension=ts&play_token=PLxckidqKp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 9 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 9 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100334&extension=ts&play_token=uuAnLO9BDT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 10 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 10 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1100335&extension=ts&play_token=Wrwvh7ezDx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 11 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 11 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384250&extension=ts&play_token=IACRBjIpFn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 12 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 12 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384249&extension=ts&play_token=c4ER6UC3i0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 13 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 13 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384248&extension=ts&play_token=1dVQdfUOQ1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 14 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 14 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384247&extension=ts&play_token=UPQKnaxJUx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 15 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 15 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384246&extension=ts&play_token=0uQpaLvkGK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 16 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 16 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384245&extension=ts&play_token=zRjdeg6UYm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 17 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 17 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384244&extension=ts&play_token=BJNt9dwZ7a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 18 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 18 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384243&extension=ts&play_token=eVoHE414Aj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 19 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 19 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384242&extension=ts&play_token=gxf8gmHGiB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",TR| SINEVIZYON 20 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SINEVIZYON.png" group-title="SINEMA KANALLARI",SINEVIZYON 20 HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1384241&extension=ts&play_token=EE69lfcdOC
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626875.png" group-title="REDBOX",TR| 007
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626875&extension=ts&play_token=dB9zAUfq1L
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| AKSIYON 1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",AKSIYON 1
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626874&extension=ts&play_token=5hLA3LcpAM
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626873.png" group-title="REDBOX",TR| AKSIYON 2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626873.png" group-title="REDBOX",AKSIYON 2
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626873&extension=ts&play_token=waf15uyqvh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| AKSIYON 3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",AKSIYON 3
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626872&extension=ts&play_token=CYkkBhKjOo
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626871.png" group-title="REDBOX",TR| ANIMASYON 1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626871.png" group-title="REDBOX",ANIMASYON 1
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626871&extension=ts&play_token=uIGyB7al1C
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| ANIMASYON 2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",ANIMASYON 2
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626870&extension=ts&play_token=LC476fQoxW
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626869.png" group-title="REDBOX",TR| BELGESEL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626869.png" group-title="REDBOX",BELGESEL
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626869&extension=ts&play_token=ex9pH2XIXq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| BILIMKURGU 1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",BILIMKURGU 1
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626868&extension=ts&play_token=rb2oAx0TdL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| BILIMKURGU 2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",BILIMKURGU 2
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626867&extension=ts&play_token=lT2FBJRkWG
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626865.png" group-title="REDBOX",TR| GOLD MIX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626865.png" group-title="REDBOX",GOLD MIX
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626865&extension=ts&play_token=v6bgVZ2ygr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| KOMEDI 90'LAR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",KOMEDI 90'LAR
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626864&extension=ts&play_token=ZKVX6TnnQp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| MARVEL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",MARVEL
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626863&extension=ts&play_token=GsMzin4bHT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626862.png" group-title="REDBOX",TR| SINEMA TURK 1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626862.png" group-title="REDBOX",SINEMA TURK 1
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626862&extension=ts&play_token=PMDoyLqSGL
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626861.png" group-title="REDBOX",TR| SINEMA TURK 2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626861.png" group-title="REDBOX",SINEMA TURK 2
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626861&extension=ts&play_token=iK9VILPOpE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| SINEMA TURK 3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",SINEMA TURK 3
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626860&extension=ts&play_token=dBzLy6EBYE
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626859.png" group-title="REDBOX",TR| TURKCE SHOW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626859.png" group-title="REDBOX",TURKCE SHOW
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626859&extension=ts&play_token=bGhwYBzMl7
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626858.png" group-title="REDBOX",TR| VIZYON 1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626858.png" group-title="REDBOX",VIZYON 1
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626858&extension=ts&play_token=s9cfYYiofb
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626857.png" group-title="REDBOX",TR| VIZYON 2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1626857.png" group-title="REDBOX",VIZYON 2
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626857&extension=ts&play_token=k6BZpr3nkj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",TR| YESILCAM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="REDBOX",YESILCAM
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=1626856&extension=ts&play_token=SHKtmJ0QzL
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1796075.png" group-title="TURKIYE",TR| YOL TV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1796075.png" group-title="TURKIYE",YOL TV
 
 #EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz"
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
@@ -4937,6 +4935,7 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2IRkltr9Dr37eeC9bAO3MhnTToJCc5loKEr0E19elHWcuAxVRgeZ4L5V9t0bux3sGQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Rusiya kanalları" tvg-id="7711" tvg-logo="http://epg.one/img/7711.png",ЯПервый HD
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2CWo0WcGcyaLVutxauDAzzuti4AfaBs8fBWbiDrIu6bGMSxWexZR8roE_JvlVUbh7Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
+
 
 
 

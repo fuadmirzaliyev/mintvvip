@@ -272,7 +272,7 @@ http://185.53.90.98:8080/fatih2/2fatih/6204
 http://185.53.90.98:8080/fatih2/2fatih/6205
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Vice FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png" group-title="beİN SİNEMA",|TR| beIN Series Vice FHD
 http://185.53.90.98:8080/fatih2/2fatih/125800
-#EXTINF:-1 tvg-logo="" group-title="TR| BELGESEL KANALLARI",##### TR BELGESEL #####
+#EXTINF:-1 tvg-logo="" group-title="BELGESEL KANALLARI",##### TR BELGESEL #####
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913192&extension=ts&play_token=CMRa1R7NI5
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913191.png" group-title="BELGESEL KANALLARI",TR| TRT BELGESEL 4K
@@ -360,10 +360,10 @@ http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913162&extensio
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=9131sine61&extension=ts&play_token=w6IsNSbvJY
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913160.png" group-title="BELGESEL KANALLARI",TR| LOVE NATURE 4K
-#EXTINF:-1 tvg-logo="" group-title="TR| SINEMA KANALLARI",##### TR SINEMA/DIZI #####
+#EXTINF:-1 tvg-logo="" group-title="SINEMA KANALLARI",##### TR SINEMA/DIZI #####
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913334&extension=ts&play_token=8KDF9OsMGh
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913333.png" group-title="INEMA KANALLARI",TR| ZUZU MOVIES TURK HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913333.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES TURK HD
 
 http://klaratv.com:80/play/live.php?mac=00:1A:79:F5:06:B6&stream=913333&extension=ts&play_token=9qZSkoqtRh
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/beinmoviesfamily.png" group-title="SINEMA KANALLARI",TR| ZUZU MOVIES FAMILY HD
@@ -4937,6 +4937,7 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2IRkltr9Dr37eeC9bAO3MhnTToJCc5loKEr0E19elHWcuAxVRgeZ4L5V9t0bux3sGQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Rusiya kanalları" tvg-id="7711" tvg-logo="http://epg.one/img/7711.png",ЯПервый HD
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2CWo0WcGcyaLVutxauDAzzuti4AfaBs8fBWbiDrIu6bGMSxWexZR8roE_JvlVUbh7Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
+
 
 
 
